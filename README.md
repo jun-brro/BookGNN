@@ -1,5 +1,8 @@
 <img width="2119" alt="Frame 5" src="https://github.com/user-attachments/assets/9d8d8079-2d1f-4ca2-856e-d9b46a379123">
 
+### Original Repository: https://github.com/YunYunSeoJANG/BookGNN
+
+
 
 # 0. DATASET OVERVIEW
 From [Goodreads Book Graph Datasets](https://mengtingwan.github.io/data/goodreads.html), includes book/user/review ids, **Poetry (36,514 books, 2,734,350 interactions, 154,555 detailed reviews)**
